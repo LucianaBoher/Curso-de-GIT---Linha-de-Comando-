@@ -1,5 +1,5 @@
 #Star Wars Repo
 
-![./star-wars.jpg] (IMAGEM PARA EXEMPLIFICAR)
+![IMAGEM PARA EXEMPLIFICAR] (./star-wars.jpg)
 
 Este repositório serve de exemplo para o curso de Git e Github.
