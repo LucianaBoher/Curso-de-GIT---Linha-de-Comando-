@@ -2,4 +2,7 @@ Master Yoda
 Luke Skywalker
 Darth Vader
 Obi Wan Kenobi
+Chewbacca
+Han Solo
 Jabba the Hutt
+
